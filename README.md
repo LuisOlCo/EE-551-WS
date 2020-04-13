@@ -1,6 +1,6 @@
 # EE-551-WS
 Final porject
-Study of the generation of renewable energies in Europe and how it correlates with GDP
+Study of the generation of renewable energies in Europe and how it correlates with GDP.
 
 The main goal of this project was to study which percentage of the total energy produced by the European countries corresponds to the production of RE (renewable energy) and how the production of RE is correlated with the GDP of each country within the study.  Lastly, this project established a way to predict the future RE production based on the available GDP data. For this project, data was taken from the European Commission (where it shows every country energy production), and from the International Monetary Fund, where it gives the GDP of each country on the world for every year from 1984 to 2024.
 
